@@ -1,0 +1,23 @@
+textarea {
+    min-height: 400px;
+}
+
+.mail-divs {
+    position: relative;
+    border: 1px solid black;
+    margin: 2vh 0;
+    width: 100%;
+}
+
+.read {
+    background-color: rgb(214, 214, 214);
+}
+
+.unread {
+    background-color: white;
+}
+
+.timestamp {
+    position: absolute;
+    right: 10px;
+}
